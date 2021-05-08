@@ -1,0 +1,19 @@
+*{
+	margin: 0px;
+	padding: 0px;
+	box-sizing: border-box;
+}
+
+.name{
+	font-size: 18px;
+}
+
+.education_table{
+	color: #fff;
+	background-color: grey;
+	font-size: 20px;
+}
+
+.values{
+	font-size: 18px;
+}
